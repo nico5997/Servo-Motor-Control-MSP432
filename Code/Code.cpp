@@ -3,7 +3,6 @@
 #define Period_0 1638 // f = 32768 Hz -> 50ms: 32768*0.05 = 1638
 #define Period_2 656 // f = 32768 Hz -> 20ms: 32768*0.05 = 656
 
-
 #define Ratio_duty_cycle_0 0.5 
 #define Ratio_duty_cycle_2_0 (1-0.075)
 #define Ratio_duty_cycle_2_90 (1-0.1)
